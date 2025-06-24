@@ -1,0 +1,326 @@
+{
+  "main": {
+    "id": "4f5ca2bc127e2e4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff39e08e25b64864",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfcb4ddab2245bd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 日记/2025/2025-06/2025-06-24_星期二.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-24_星期二"
+            }
+          },
+          {
+            "id": "6636d853e2be616f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 日记/2025/2025-06/2025-06-24_星期二.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-24_星期二"
+            }
+          },
+          {
+            "id": "58ce8b8ef5670745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 日记/2025/2025-06/2025-06-24_星期二.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-24_星期二"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4f878841d080da9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b6385f1ff92e3d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03617c2d17694a7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9583810948cc7c4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "b1465d0a2a71c9b2",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "5fa725ff5d04bb25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.50271224975586
+  },
+  "right": {
+    "id": "4fdd114e5504c8be",
+    "type": "split",
+    "children": [
+      {
+        "id": "04519bc6296e1999",
+        "type": "tabs",
+        "dimension": 60.38216560509554,
+        "children": [
+          {
+            "id": "160a5af354f3adff",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
+          {
+            "id": "64b5f9a24a458004",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "ab17be074d971900",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "400d1e9ae532bca8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "6c02aa9d16a2ab21",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      },
+      {
+        "id": "70dbfa7f18d68793",
+        "type": "tabs",
+        "dimension": 39.61783439490446,
+        "children": [
+          {
+            "id": "04eca412c4b32efc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "markdown-importer:打开 Markdown 格式转换器": true,
+      "omnisearch:Omnisearch": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": true,
+      "attachment-manager:切换附件文件夹的“显示/隐藏”": true,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": true,
+      "vscode-editor:新建代码文件": true,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": true,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "workspaces:管理工作区布局": true,
+      "random-note:开始漫游笔记": true,
+      "obsidian-translator:Translate": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "58ce8b8ef5670745",
+  "lastOpenFiles": [
+    "00 规划与工具/Exercise.md",
+    "07 日记/2025/2025-06/2025-06-24_星期二.md",
+    "07 日记/2025/2025-06/2025-06-14_星期六.md",
+    "07 日记/2025/2025-06/2025-06-19_星期四.md",
+    "07 日记/2025/2025-06/2025-06-11_星期三.md",
+    "07 日记/2025/2025-06/2025-06-13_星期五.md",
+    "07 日记/2025/2025-06/2025-06-17_星期二.md",
+    "07 日记/2025/2025-06/2025-06-18_星期三.md",
+    "07 日记/2025/2025-06/2025-06-21_星期六.md",
+    "07 日记/2025/2025-06/2025-06-23_星期一.md",
+    "01 数据结构和算法/2025春季学期/期中考试/2023期中解析.md",
+    "00 规划与工具/模版/日记模版.md",
+    "07 日记/2025/2025-06/2025-06-25_星期三.md",
+    "07 日记/2025/2025-06/2025-06-27_星期五.md",
+    "07 日记/2025/2025-06/2025-06-26_星期四.md",
+    "07 日记/2025/2025-06/2025-06-28_星期六.md",
+    "00 规划与工具/模版/日记模版.md_Attachments",
+    "01 数据结构和算法/2025春季学期/手搓算法.md",
+    "00 规划与工具/未命名.md",
+    "00 规划与工具/模版",
+    "07 日记/2025/2025-06/2025-06-10_星期二.md",
+    "07 日记/2025/2025-06/2025-06-20_星期五.md",
+    "Highlights for 离散数学2024年期末A卷答案.md",
+    "01 数据结构和算法/数据结构/堆/左堆.md",
+    "01 数据结构和算法/数据结构/堆/优先队列.md",
+    "01 数据结构和算法/数据结构/堆/堆的概念.md",
+    "01 数据结构和算法/数据结构/链表/单链表的完整实现.md",
+    "01 数据结构和算法/数据结构/链表/凸包问题.md",
+    "01 数据结构和算法/2025春季学期/期中考试/湖南大学数据结构期末考试试题.pdf",
+    "01 数据结构和算法/2025春季学期",
+    "01 数据结构和算法/复习.pdf",
+    "07 日记/2025/2025-06/2025-06-21_星期六.md_Attachments/18abcd4aaddaf7ab4af5763dfd367265.jpg",
+    "07 日记/2025/2025-06/2025-06-21_星期六.md_Attachments",
+    "09 LeetCode/灵茶山艾府刷题记录/相向双指针 哈希表.md_Attachments/相向双指针 哈希表-20250621231332281.png",
+    "09 LeetCode/灵茶山艾府刷题记录/相向双指针 哈希表.md_Attachments/相向双指针 哈希表-20250621230231581.png",
+    "09 LeetCode/灵茶山艾府刷题记录/相向双指针 哈希表.md_Attachments/相向双指针 哈希表-20250621230146161.png",
+    "09 LeetCode/灵茶山艾府刷题记录/相向双指针 哈希表.md_Attachments",
+    "09 LeetCode/灵茶山艾府刷题记录",
+    "07 日记/2025/2025-06/2025-06-20_星期五.md_Attachments/Screenshot_20250620_222547.jpg",
+    "07 日记/2025/2025-06/2025-06-20_星期五.md_Attachments/Screenshot_20250620_211136.jpg",
+    "07 日记/2025/2025-06/2025-06-20_星期五.md_Attachments",
+    "03 高等数学/高数期末框框笔记.pdf",
+    "09 LeetCode/Intro.md_Attachments/27168a3f83949da6a2731af17da74cf9_MD5.jpg",
+    "09 LeetCode/Intro.md_Attachments/e0ab62b9757e0cd88a94b164bc3b858e_MD5.jpg",
+    "09 LeetCode/Intro.md_Attachments/5e7ded6aa71f6ad71df066abed2b68fa_MD5.jpg",
+    "03 高等数学/期末真题.md_Attachments/期末真题-20250617150538629.png",
+    "00 规划与工具/指令学习.canvas"
+  ]
+}

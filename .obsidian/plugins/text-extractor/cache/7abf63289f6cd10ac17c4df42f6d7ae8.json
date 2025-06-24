@@ -1,0 +1,1 @@
+{"path":"01 数据结构和算法/HelloAlgorithm/docs/第14章 动态规划/14.4 0-1 背包问题_Attachments/knapsack_dp_step2.png","text":"a a B ‘ ERE wgt fE val 3 0 1 2 3 4 wgt[i-1] wvalli-1] o o o o o o _ #5507 1 5 [} 1 [} 5 2 11 % 2 [} 3 15 (O 3 0 RERB: dp[i, c] = max( dp[i - 1, c] , dp[i - 1, ¢ - wgt[i-1]] + val[i-1] ) | step 2 |","libVersion":"0.5.0","langs":"eng"}

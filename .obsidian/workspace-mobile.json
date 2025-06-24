@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "a86fc997d04e047f",
+    "type": "split",
+    "children": [
+      {
+        "id": "aea3951a72b90925",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f2748d1003d56ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 数据结构和算法/二叉树/哈夫曼树（最优二叉树）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "哈夫曼树（最优二叉树）"
+            }
+          },
+          {
+            "id": "447a660f9a97d72f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-22 21.34.39.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-22 21.34.39.excalidraw"
+            }
+          },
+          {
+            "id": "589c45babc39d684",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-22 21.34.39_0.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-22 21.34.39_0.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83308f2a135afb0c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0927b791a2f51e81",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "62a1292a85a48fa1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "41d3265c3ac7ee7d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-file",
+          "title": "插件不再活动"
+        }
+      },
+      {
+        "id": "5475ad76a8b1f4ff",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "ab977f353533e5ed",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "da61452f683fa3fe",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Excalidraw/Drawing 2025-04-22 21.34.39_0.excalidraw.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "0e1a9edf80105584",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "test.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "lucide-file",
+          "title": "插件不再活动"
+        }
+      },
+      {
+        "id": "67033f65a2b8e67d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "test.md"
+          },
+          "icon": "lucide-file",
+          "title": "插件不再活动"
+        }
+      },
+      {
+        "id": "c197ba3a4156dfc4",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "589c45babc39d684",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-04-22 21.34.39.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-22 21.34.39_0.excalidraw.md",
+    "01 数据结构和算法/二叉树/哈夫曼树（最优二叉树）.md",
+    "Excalidraw",
+    "02 离散数学/笔记.md",
+    "离散数学/笔记.md",
+    "HelloAlgorithm/docs/chapter_greedy/fractional_knapsack_problem.md",
+    "HelloAlgorithm/docs/chapter_greedy",
+    "HelloAlgorithm/docs/chapter_graph/summary.md",
+    "HelloAlgorithm/docs/chapter_graph/summary.md.tacitpart",
+    "HelloAlgorithm/docs/chapter_graph/index.md",
+    "HelloAlgorithm/docs/chapter_graph/graph_traversal.md",
+    "HelloAlgorithm/docs/chapter_graph/graph_traversal.md.tacitpart",
+    "HelloAlgorithm/docs/chapter_graph/graph_operations.md",
+    "HelloAlgorithm/docs/chapter_graph/graph_operations.md.tacitpart",
+    "HelloAlgorithm/docs/chapter_graph/graph.md",
+    "HelloAlgorithm/docs/chapter_graph/graph.md.tacitpart",
+    "HelloAlgorithm/docs/chapter_graph",
+    "HelloAlgorithm/docs/chapter_dynamic_programming/unbounded_knapsack_problem.md",
+    "HelloAlgorithm/docs/chapter_dynamic_programming/unbounded_knapsack_problem.md.tacitpart",
+    "HelloAlgorithm/docs/chapter_dynamic_programming/summary.md",
+    "HelloAlgorithm/docs/chapter_dynamic_programming/knapsack_problem.md",
+    "HelloAlgorithm/docs/chapter_dynamic_programming/knapsack_problem.md.tacitpart",
+    "HelloAlgorithm/docs/chapter_dynamic_programming/intro_to_dynamic_programming.md",
+    "HelloAlgorithm/docs/chapter_dynamic_programming/index.md",
+    "HelloAlgorithm/docs/chapter_dynamic_programming/edit_distance_problem.md",
+    "HelloAlgorithm/docs/chapter_dynamic_programming/dp_solution_pipeline.md",
+    "HelloAlgorithm/docs/chapter_dynamic_programming/dp_problem_features.md",
+    "HelloAlgorithm/docs/chapter_dynamic_programming",
+    "HelloAlgorithm/docs/chapter_divide_and_conquer/summary.md",
+    "HelloAlgorithm/docs/chapter_divide_and_conquer/index.md",
+    "HelloAlgorithm/docs/chapter_divide_and_conquer/hanota_problem.md",
+    "HelloAlgorithm/docs/chapter_divide_and_conquer/divide_and_conquer.md",
+    "离散数学/笔记kimi.md",
+    "HelloAlgorithm/docs/chapter_divide_and_conquer/build_binary_tree_problem.md",
+    "HelloAlgorithm/docs/chapter_divide_and_conquer/binary_search_recur.md"
+  ]
+}

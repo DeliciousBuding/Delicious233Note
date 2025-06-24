@@ -1,0 +1,1 @@
+{"path":"01 数据结构和算法/HelloAlgorithm/docs/第14章 动态规划/14.5 完全背包问题_Attachments/coin_change_dp_step14.png","text":"s & & & s e 0 1 2 3 4 i coins[i-1] 0 0 MAX MAX MAX MAX 1 1 e [} 1 2 3 A 2 2 @ : [} 1 1 2 2 3 5 @ - ) 1 1 2 “ REHEB: dp[i, al = min( dp[i - 1, a] , dp[i, a - coins[i-1]] + 1) | Step 14 |","libVersion":"0.5.0","langs":"eng"}

@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "4f5ca2bc127e2e4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d64c0452e3e0064d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f525dde6944bf3ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 日记/2025/2025-04/2025-04-29_星期二.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-29_星期二"
+            }
+          },
+          {
+            "id": "5794d9b6ec9d561d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 日记/2025/2025-05/2025-05-05_星期一.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-05_星期一"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4f878841d080da9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b6385f1ff92e3d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03617c2d17694a7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9583810948cc7c4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "b1465d0a2a71c9b2",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "5fa725ff5d04bb25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.50469207763672
+  },
+  "right": {
+    "id": "4fdd114e5504c8be",
+    "type": "split",
+    "children": [
+      {
+        "id": "04519bc6296e1999",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04eca412c4b32efc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "59390a020a25b63c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 离散数学/离散数学笔记.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "离散数学笔记 的大纲"
+            }
+          },
+          {
+            "id": "084abddf7471f653",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 高等数学/期中.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "期中 的反向链接列表"
+            }
+          },
+          {
+            "id": "d249951dce069860",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 规划与工具/未命名.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 的出链列表"
+            }
+          },
+          {
+            "id": "964433281c913c37",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "markdown-importer:打开 Markdown 格式转换器": true,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian42-brat:BRAT": true,
+      "templater-obsidian:Templater": true,
+      "attachment-manager:切换附件文件夹的“显示/隐藏”": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": true,
+      "vscode-editor:新建代码文件": true,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": true,
+      "obsidian-extract-pdf-highlights:PDF Highlights": true,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "5794d9b6ec9d561d",
+  "lastOpenFiles": [
+    "02 离散数学/离散数学笔记.md",
+    "07 日记/2025/2025-05/2025-05-05_星期一.md",
+    "07 日记/2025/2025-05/2025-05-01_星期四.md",
+    "07 日记/2025/2025-05/2025-05-01_星期四.md_Attachments/2025-05-01_星期四-20250501003417434.png",
+    "07 日记/2025/2025-05/2025-05-01_星期四.md_Attachments/2025-05-01_星期四-20250501003408260.png",
+    "07 日记/2025/2025-05/2025-05-01_星期四.md_Attachments/2025-05-01_星期四-20250501003400045.png",
+    "07 日记/2025/2025-05/2025-05-01_星期四.md_Attachments/2025-05-01_星期四-20250501003347383.png",
+    "07 日记/2025/2025-05/2025-05-01_星期四.md_Attachments",
+    "07 日记/2025/2025-05",
+    "07 日记/2025/2025-04/2025-04-29_星期二.md",
+    "02 离散数学/离散数学笔记.md_Attachments/离散数学笔记-20250430193553237.png",
+    "02 离散数学/离散数学笔记 1.md",
+    "07 日记/2025/2025-04/2025-04-29_星期二.md_Attachments/c0dd6ec3269c680a457f12f96abfba5.jpg",
+    "07 日记/2025/2025-04/2025-04-29_星期二.md_Attachments",
+    "07 日记/2025/2025-04/2025-04-30_星期三.md",
+    "07 日记/2025/2025-04/2025-04-20_星期日.md",
+    "07 日记/2025/2025-04/2025-04-21_星期一.md",
+    "07 日记/2025/2025-04/2025-04-22_星期二.md",
+    "07 日记/2025/2025-04/2025-04-25_星期五.md",
+    "07 日记/2025/2025-04/2025-04-24_星期四.md",
+    "07 日记/2025/2025-04/2025-04-27_星期日.md",
+    "07 日记/2025/2025-04/2025-04-30_星期三.md_Attachments/4ec1ee31c881b29c89f6272117eeba75.jpg",
+    "07 日记/2025/2025-04/2025-04-30_星期三.md_Attachments",
+    "Excalidraw/Drawing 2025-04-29 13.48.17.excalidraw.md",
+    "Excalidraw",
+    "07 日记/2025/2025-04/2025-04-27_星期日.md_Attachments/2025-04-27_星期日-20250427203257842.png",
+    "07 日记/2025/2025-04/2025-04-27_星期日.md_Attachments/2025-04-27_星期日-20250427202814941.png",
+    "07 日记/2025/2025-04/2025-04-27_星期日.md_Attachments",
+    "03 高等数学/期中.md",
+    "03 高等数学/期中.md_Attachments/期中-20250425165315628.png",
+    "03 高等数学/高数下册 复习讲座讲义（B站2022年视频）.pdf",
+    "03 高等数学/PPT/4-5 多元函数积分学/重积分习题课1.pdf",
+    "03 高等数学/PPT/2-3 多元函数微分学/2.8 方向导数与梯度1.pdf",
+    "07 日记/2025/2025-04/2025-04-23_星期三.md",
+    "03 高等数学/PPT/2-3 多元函数微分学/2.4 多元函数的全微分1.pdf",
+    "03 高等数学/03 多元函数积分学.md",
+    "03 高等数学/01 向量代数与空间解析几何.md",
+    "03 高等数学/模拟卷AI/模拟1.md",
+    "01 数据结构和算法/图/图论.md",
+    "03 高等数学/模拟卷AI/模拟2.md",
+    "03 高等数学/02 多元函数微分学.md",
+    "Excalidraw/Drawing 2025-04-22 21.42.12.excalidraw.md",
+    "01 数据结构和算法/HelloAlgorithm/编写规范.md",
+    "Excalidraw/Drawing 2025-04-22 21.32.00.excalidraw.md",
+    "01 数据结构和算法/HelloAlgorithm/docs/第16章 附录/16.3 术语表.md",
+    "01 数据结构和算法/HelloAlgorithm/docs/第16章 附录/16.2 一起参与创作.md",
+    "00 规划与工具/指令学习.canvas"
+  ]
+}

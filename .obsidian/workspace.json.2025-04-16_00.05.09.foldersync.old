@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "4f5ca2bc127e2e4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8444fc757a764d0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "338afcc6de2a684b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4f878841d080da9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b6385f1ff92e3d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03617c2d17694a7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "df7bef969e5bed23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "最大堆",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9583810948cc7c4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5004348754883
+  },
+  "right": {
+    "id": "4fdd114e5504c8be",
+    "type": "split",
+    "children": [
+      {
+        "id": "04519bc6296e1999",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04eca412c4b32efc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e19b2789d40b66f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "离散数学/集合与关系.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "集合与关系 的反向链接列表"
+            }
+          },
+          {
+            "id": "59390a020a25b63c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "attachment-manager:切换附件文件夹的“显示/隐藏”": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "338afcc6de2a684b",
+  "lastOpenFiles": [
+    "数据结构和算法/复习索引.md",
+    "数据结构和算法/docs/贪心算法/总结.md",
+    "数据结构和算法/docs/贪心算法/最大乘积切割问题.md",
+    "数据结构和算法/docs/贪心算法/最大容量问题.md",
+    "数据结构和算法/docs/贪心算法/贪心算法.md",
+    "数据结构和算法/docs/贪心算法/分数背包问题.md",
+    "数据结构和算法/docs/计算复杂度/时间复杂度.md",
+    "数据结构和算法/docs/计算复杂度/空间复杂度.md",
+    "数据结构和算法/docs/计算复杂度/性能评估.md",
+    "数据结构和算法/docs/计算复杂度/迭代与递归.md",
+    "数据结构和算法/docs/树/binary_tree_traversal.md",
+    "数据结构和算法/docs/树/二叉树遍历.md",
+    "数据结构和算法/docs/树/二叉树.md",
+    "数据结构和算法/docs/树/二叉搜索树.md",
+    "数据结构和算法/docs/树/AVL树.md",
+    "数据结构和算法/docs/树/树的数组表示.md",
+    "数据结构和算法/docs/树/binary_tree.md",
+    "数据结构和算法/docs/树/binary_search_tree.md",
+    "数据结构和算法/docs/排序/计数排序.md",
+    "数据结构和算法/docs/栈和队列/栈.md",
+    "数据结构和算法/docs/排序/快速排序.md",
+    "数据结构和算法/docs/栈和队列/队列.md",
+    "数据结构和算法/docs/栈和队列/双端队列.md",
+    "数据结构和算法/docs/排序/基数排序.md",
+    "数据结构和算法/docs/排序/归并排序.md",
+    "数据结构和算法/docs/排序/堆排序.md",
+    "数据结构和算法/docs/纸质书/index.assets/paper_book_overview.jpg",
+    "数据结构和算法/docs/纸质书/index.assets/paper_book_chapter_heap.jpg",
+    "数据结构和算法/docs/纸质书/index.assets/paper_book_avl_tree.jpg",
+    "数据结构和算法/docs/纸质书/index.assets/book_jd_link.jpg",
+    "数据结构和算法/docs/index.assets/animation_dark.gif",
+    "数据结构和算法/docs/index.assets/animation.gif",
+    "数据结构和算法/docs/index.assets/btn_download_pdf.svg",
+    "数据结构和算法/docs/index.assets/btn_english_edition_dark.svg",
+    "数据结构和算法/docs/index.assets/comment.gif",
+    "数据结构和算法/docs/index.assets/running_code_dark.gif",
+    "数据结构和算法/docs/树/binary_tree_traversal.assets",
+    "数据结构和算法/docs/树/binary_tree.assets",
+    "数据结构和算法/docs/树/binary_search_tree.assets",
+    "数据结构和算法/docs/树/avl_tree.assets",
+    "数据结构和算法/docs/树/array_representation_of_tree.assets",
+    "数据结构和算法/docs/树",
+    "数据结构和算法/docs/栈和队列/queue.assets",
+    "数据结构和算法/docs/栈和队列/stack.assets",
+    "数据结构和算法/docs/栈和队列/deque.assets",
+    "数据结构和算法/docs/栈和队列",
+    "未命名.canvas"
+  ]
+}

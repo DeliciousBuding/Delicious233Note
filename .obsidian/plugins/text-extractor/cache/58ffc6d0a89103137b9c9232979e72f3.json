@@ -1,0 +1,1 @@
+{"path":"01 数据结构和算法/OI-wiki/docs/tools/editor/images/xcode-13.jpg","text":"B2 < > [B ol-wiki) [ Ol-wiki ) ¢ main.cpp ) No Selection =m 1 #include <bits/stdc++.h> 2 using namespace std; 3 int main() 4 { 5 int a,b; 6 cin >> a >> b; 7 cout << a+b << endl; 8 return 0; 9 %} 10 Build Succeeded = ®» [ & L L0 S < |monwik 4","libVersion":"0.5.0","langs":"eng"}

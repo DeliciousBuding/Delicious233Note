@@ -1,0 +1,1 @@
+{"path":"05 编程语言/Java/attachments/Pasted image 20250210115306.png","text":"public static Dog maxDog(Dog d1, Dog d2) { if (d1l.weightInPounds > d2.weightInPounds) return dl; } return d2; } public Dog maxDog(Dog d2) { if (this.weightInPounds > d2.weightInPounc return this; } M return d2; :I%%L#‘ -","libVersion":"0.5.0","langs":"eng"}

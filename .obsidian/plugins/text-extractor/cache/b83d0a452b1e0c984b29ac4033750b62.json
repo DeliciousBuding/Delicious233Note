@@ -1,0 +1,1 @@
+{"path":"01 数据结构和算法/数据结构/图/图论.md_Attachments/图论-20250421194105752.png","text":"17 foru—0ton-1do //KLFEIEAAFERUIT I UL IR % 18 | forve0 ton-1do 19 | | if graph.edge matrix[u][vl#graphno_edge value then 20 | | | ifdist[v] > dist{u] + graph.edge_matrix{u][v] then 21 | | | | return false 22| | | end 23 | | end 24 | end 25 end 26 returntrue","libVersion":"0.5.0","langs":"eng"}

@@ -1,0 +1,1 @@
+{"path":"01 数据结构和算法/HelloAlgorithm/docs/第14章 动态规划/14.4 0-1 背包问题_Attachments/knapsack_dp_step1.png","text":"a & @ ‘ ERE wgt fHE val 3 0 1 2 3 4 wgt[i-1] val[i-1] 0 0 0 0 0 0 1 5 () 1 [ 2 11 % 2 0 3 15 (O 3 0 YRBE n =3 EEEE cap = 4 WMAKRTH (n+1) = (cap+1) B dp %6 | step 1 |","libVersion":"0.5.0","langs":"eng"}
